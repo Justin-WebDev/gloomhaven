@@ -1,0 +1,10 @@
+h1 {
+  color: white;
+  background-color: black;
+}
+
+.item {
+  border-radius: 15px;
+  height: 200px;
+  width: auto;
+}
